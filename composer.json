@@ -1,0 +1,9 @@
+{
+    "name": "levy52/YouTube-API-Category-Plugin",
+    "description": "WordPress plugin that allows you to display the latest videos from a selected YouTube playlist in the category description.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
+
